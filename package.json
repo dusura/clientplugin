@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-netops-srv-productline",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://10.200.26.206:7990/scm/netops/nodejs-netops-srv-productline.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://10.200.26.206:7990/scm/netops/nodejs-netops-srv-productline.git"
+  },
+  "homepage": "http://10.200.26.206:7990/scm/netops/nodejs-netops-srv-productline.git",
+  "dependencies": {
+    "chairo": "0.2.0",
+    "handlebars": "4.0.3",
+    "hapi": "10.1.0",
+    "inert": "3.0.1",
+    "seneca": "0.7.1",
+    "vision": "3.0.0"
+  }
+}
