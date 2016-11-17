@@ -4,7 +4,7 @@ Test Seneca client call in plugin
 ## First
 
 ```
-node helloworld-servers.js
+node helloworld-server.js
 ```
 
 ## Then
