@@ -1,3 +1,3 @@
 require('seneca')()
-    .use('./service.js')
+    .use('./helloworld.js')
     .listen(10000)
